@@ -36,7 +36,8 @@ vanilla-js-extension
 - Use `content.js` to manipulate the DOM of web pages.
 - Update `popup.html`, `popup.js`, and `popup.css` to customize the popup interface.
 
-## Documentation Link: https://cultured-game-6c9.notion.site/Browser-Extension-1e8a1164054b805c8fa3d36b402d70ce
+## Documentation Link: 
+https://cultured-game-6c9.notion.site/Browser-Extension-1e8a1164054b805c8fa3d36b402d70ce
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
