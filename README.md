@@ -1,7 +1,11 @@
 # Vanilla JS Extension
 
 ## Overview
-This project is a simple browser extension built using vanilla JavaScript. It includes a background script, content script, and a popup interface that allows users to interact with the extension.
+This project is a simple browser extension built using vanilla JavaScript. It includes a background script, content script, and a popup interface that allows users to interact with the extension, It also include example of some real time application i.e.,
+- Todo App
+- Push Notification
+- Web page background color changer
+- Image scraping
 
 ## Project Structure
 ```
@@ -31,6 +35,8 @@ vanilla-js-extension
 - Modify the `background.js` file to handle background tasks.
 - Use `content.js` to manipulate the DOM of web pages.
 - Update `popup.html`, `popup.js`, and `popup.css` to customize the popup interface.
+
+## Documentation Link: https://cultured-game-6c9.notion.site/Browser-Extension-1e8a1164054b805c8fa3d36b402d70ce
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
