@@ -1,0 +1,61 @@
+/* General body styling */
+body {
+  display: flex;
+  flex-direction: column;
+  height: 550px;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+  color: #333;
+  width: 500px;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #4285f4; /* Chrome blue */
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Main content styling */
+main {
+  flex-grow: 1; /* Ensures the main content takes up available space */
+  padding: 15px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background-color: #f1f1f1;
+}
+
+/* Tabs styling */
+.tab-content {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 15px;
+  border-radius: 0 0 5px 5px;
+  height: 90%;
+}
+
+#image-thumbnails img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+/* Footer styling */
+footer {
+  font-size: 12px;
+  background-color: #4285f4;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
